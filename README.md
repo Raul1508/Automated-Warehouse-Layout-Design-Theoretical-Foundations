@@ -1,6 +1,6 @@
 # 📦 Automated Warehouse Layout Design — Theoretical Foundations
 
-![Warehouse Automation]([https://img.shields.io/badge/domain-Industrial%20Engineering-blue](https://www.netsuite.com/portal/resource/articles/inventory-management/warehouse-automation.shtml)) ![Robotics](https://img.shields.io/badge/tech-Robotics%20%26%20AI-orange) ![Status](https://img.shields.io/badge/status-Theoretical%20Phase-yellow)
+![Warehouse Automation](https://www.netsuite.com/portal/resource/articles/inventory-management/warehouse-automation.shtml) ![Robotics](https://img.shields.io/badge/tech-Robotics%20%26%20AI-orange) ![Status](https://img.shields.io/badge/status-Theoretical%20Phase-yellow)
 
 > *Exploring the intersection of Industrial Engineering and Computer Technology in designing the warehouses of the future.*
 
