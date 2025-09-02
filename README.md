@@ -1,7 +1,5 @@
 # 📦 Automated Warehouse Layout Design — Theoretical Foundations
 
-# 📦 Automated Warehouse Layout Design — Theoretical Foundations
-
 ![Robotics](https://img.shields.io/badge/tech-Robotics%20%26%20AI-orange)
 ![Status](https://img.shields.io/badge/status-Theoretical%20Phase-yellow)
 
