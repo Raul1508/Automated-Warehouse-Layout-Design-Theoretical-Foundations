@@ -1,6 +1,6 @@
 # 📦 Automated Warehouse Layout Design — Theoretical Foundations
 
-![Warehouse Automation](https://img.shields.io/badge/domain-Industrial%20Engineering-blue) ![Robotics](https://img.shields.io/badge/tech-Robotics%20%26%20AI-orange) ![Status](https://img.shields.io/badge/status-Theoretical%20Phase-yellow)
+![Warehouse Automation]([https://img.shields.io/badge/domain-Industrial%20Engineering-blue](https://www.netsuite.com/portal/resource/articles/inventory-management/warehouse-automation.shtml)) ![Robotics](https://img.shields.io/badge/tech-Robotics%20%26%20AI-orange) ![Status](https://img.shields.io/badge/status-Theoretical%20Phase-yellow)
 
 > *Exploring the intersection of Industrial Engineering and Computer Technology in designing the warehouses of the future.*
 
@@ -105,15 +105,15 @@ Automation systems transform **space into programmable infrastructure**.
 
 ## 👨‍🎓 Author
 
-**Your Name**  
+RAUL EDUARDO FERNANDEZ PACHAS
 🎓 Master of Computer Technology  
 🎓 B.Eng (Hons) in Industrial Engineering  
 
-Researcher in **automation systems**, **cyber-physical logistics**, and **intelligent facility design**.
+Researcher in **automation systems** and **intelligent facility design**.
 
 > *"Where spatial engineering meets intelligent automation."*
 
-📫 Feel free to connect on [LinkedIn](www.linkedin.com/in/raulfer-inde) or contribute ideas!
+📫 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/raulfer-inde) or contribute ideas!
 
 ---
 
